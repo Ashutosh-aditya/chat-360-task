@@ -20,7 +20,7 @@ Here are some steps to run this project:
 1. Clone the project ( open new terminal on your VSCode) 
 
 ```
-git clone https://github.com/Vivek-Soni-5/chat360-task.git
+git clone https://github.com/Ashutosh-aditya/chat-360-task
 ```
 
 2. Make Virtual Environment for this project (optional)
