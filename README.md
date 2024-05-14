@@ -6,9 +6,10 @@ Both the systems (the log ingestor and the query interface) has been built using
 
 I am using firebase realtime database for storing the logs and provided the credendials for your use. If you want to use your own credendials then get the cred from firebase. [Visit firebase console](https://console.firebase.google.com/). Make sure you are creating project for web.
 ## Project Overview
-![image](https://github.com/Vivek-Soni-5/chat360-task/assets/120296187/c6762bd9-368b-4577-9757-14fdec4c3c5b)
-![image](https://github.com/Vivek-Soni-5/chat360-task/assets/120296187/efe4413e-335b-4c01-bd84-b4f9bedfbb28)
-![image](https://github.com/Vivek-Soni-5/chat360-task/assets/120296187/fdc4c010-98db-49a3-bab5-caf7f8daafc9)
+
+![WhatsApp Image 2024-05-14 at 17 55 28_ae1f5e43](https://github.com/Ashutosh-aditya/chat-360-task/assets/78680582/85147d78-82cd-48d6-b42d-f41376abfffe)
+![WhatsApp Image 2024-05-14 at 17 55 05_7b9c6914](https://github.com/Ashutosh-aditya/chat-360-task/assets/78680582/b46393ad-1e15-4771-a626-e8278300763f)
+![WhatsApp Image 2024-05-14 at 17 54 11_d5d9f961](https://github.com/Ashutosh-aditya/chat-360-task/assets/78680582/86e7b114-2c99-4212-affc-11ea34684a82)
 
 
 
